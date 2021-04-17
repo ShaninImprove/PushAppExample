@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "577253768986",
+    "project_id": "testandroidschoolapp",
+    "storage_bucket": "testandroidschoolapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:577253768986:android:a530f5db656a68640db6a3",
+        "android_client_info": {
+          "package_name": "com.androidschool.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "577253768986-bkno4isc26pna1g055hrp4g6fbounrvt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBd4_S0b7k7v0AGShSuyzza-XYTcvMrLfA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "577253768986-bkno4isc26pna1g055hrp4g6fbounrvt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
